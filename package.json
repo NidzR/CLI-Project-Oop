@@ -1,0 +1,25 @@
+{
+  "name": "cli-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "types": "inquirer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "date-fns": "^3.3.1",
+    "inquirer": "^9.2.12",
+    "open-trivia-db": "^2.1.5",
+    "opentdb-api": "^1.0.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "@types/inquirer": "^9.0.7"
+  },
+  "description": ""
+}
